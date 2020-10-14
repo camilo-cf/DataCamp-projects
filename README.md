@@ -1,6 +1,9 @@
 # DataCamp-projects
 
-<img src="https://www.pngkey.com/png/full/265-2652165_download-png-datacamp-logo.png" data-canonical-src="https://www.pngkey.com/png/full/265-2652165_download-png-datacamp-logo.png" width="600" />
+<center>
+    <img src="https://www.pngkey.com/png/full/265-2652165_download-png-datacamp-logo.png" data-canonical-src="https://www.pngkey.com/png/full/265-2652165_download-png-datacamp-logo.png" width="600" />
+</center>
+
 
 ## Python
 
